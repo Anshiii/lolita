@@ -1,0 +1,8 @@
+##idea
+.idea
+.log
+
+# Application specific files
+node_modules
+zhiMon
+init
